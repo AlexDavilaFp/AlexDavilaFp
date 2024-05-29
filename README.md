@@ -1,4 +1,5 @@
 # ¡Hola! 👋 Soy Alex Davila Paucar
+![imagen-readme.jpg](https://i.postimg.cc/8cTRCzSf/oficinaparatrabajodeenanalisisdedatos.jpg)
 
 He culminado mis estudios en análisis de datos en Henry, un reconocido bootcamp. Esta formación adicional me ha permitido desarrollar habilidades en el manejo y análisis de grandes volúmenes de datos, aplicando técnicas de machine learning y herramientas como Python y SQL para optimizar procesos y tomar decisiones informadas.
 
